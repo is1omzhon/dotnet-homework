@@ -19,5 +19,5 @@
 - Noto'g'ri reja uchun `ArgumentOutOfRangeException`, eski reja saqlanadi
 
 ## Ishga tushirish
-![1 Programma ishlashi](/assets/2task.gif)
+![2 Programma ishlashi](/assets/2task.gif)
 
