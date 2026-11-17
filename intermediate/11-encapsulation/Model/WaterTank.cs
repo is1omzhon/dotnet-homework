@@ -5,7 +5,7 @@ class WaterTank
    public int Capacity {get;}
    public int Water {get; private set;}
 
-   public WaterTank(int capacity, int water )
+   public WaterTank(int capacity, int water)
    {
         if (water < 0)
         {
