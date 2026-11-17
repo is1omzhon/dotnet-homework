@@ -9,6 +9,9 @@
 - Konstruktorda sig'im va suv miqdori tekshiriladi, noto'g'ri bo'lsa `ArgumentOutOfRangeException`
 - `Fill` da `amount <= Capacity - Water` bilan int chegarasidan oshish oldi olinadi
 
+## Ishga tushirish
+![1 Programma ishlashi](/assets/1task.gif)
+
 ## 2. StudySession
 - `Topic` va `SpentMinutes` faqat o'qiladi
 - `PlannedMinutes` da tekshiradigan `set` (10-120 va sarflangan vaqtdan kam emas)
@@ -16,6 +19,5 @@
 - Noto'g'ri reja uchun `ArgumentOutOfRangeException`, eski reja saqlanadi
 
 ## Ishga tushirish
-```
-dotnet run
-```
+![1 Programma ishlashi](/assets/2task.gif)
+
