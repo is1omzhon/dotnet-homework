@@ -39,6 +39,7 @@ C#
 ### Ishga tushirish
 ![1 Programma ishlashi](assets/1task.gif)
 
+-------------------------------------------------------
 
 ### 2. Employee, Developer va Designer — Xodim, dasturchi va dizayner
 
@@ -62,6 +63,7 @@ Figma
 ### Ishga tushirish
 ![2 Programma ishlashi](assets/2task.gif)
 
+----
 
 ### 3. Device va Phone — Qurilma va telefon
 
