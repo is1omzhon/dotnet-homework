@@ -132,8 +132,10 @@ Online
 ```
 ![5 Programma ishlashi](assets/5task.gif)
 
-Shuningdek, `sealed` classdan meros olib bo‘lmasligi va C# tilida bir vaqtning o‘zida ikkita classdan meros olish mumkin emasligi tekshirildi.
+Shuningdek, `sealed` classdan meros olib bo‘lmasligi va 
 ![5 Programma ishlashi](assets/5.png)
+
+C# tilida bir vaqtning o‘zida ikkita classdan meros olish mumkin emasligi tekshirildi.
 ![5 Programma ishlashi](assets/5_1.png)
 
 ## 🛠 Foydalanilgan texnologiyalar
