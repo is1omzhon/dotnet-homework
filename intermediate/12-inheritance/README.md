@@ -105,6 +105,10 @@ Shuningdek, `private` va `protected` a'zolariga tashqi koddan to‘g‘ridan-to�
 - SMS xabari muvaffaqiyatli aniqlandi.
 - Noto‘g‘ri turga o‘tkazishda `null` qaytarilishi tekshirildi.
 
+#### Ishga tushirish
+
+
+
 ### 5. Online Course — Onlayn kurs
 
 `Course`, `LearningPlatform` va `OnlineCourse` classlari yaratildi.
