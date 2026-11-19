@@ -12,3 +12,11 @@
 ## Ishga tushirish
 ![1 Programma ishlashi](assets/1task.gif)
 
+## 2. Company Managment 
+- `Capacity` va `Water` faqat o'qiladi (`private set`)
+- `Fill`, `Use`, `GetFreeCapacity` methodlari
+- Konstruktorda sig'im va suv miqdori tekshiriladi, noto'g'ri bo'lsa `ArgumentOutOfRangeException`
+- `Fill` da `amount <= Capacity - Water` bilan int chegarasidan oshish oldi olinadi
+
+## Ishga tushirish
+![2 Programma ishlashi](assets/2task.gif)
