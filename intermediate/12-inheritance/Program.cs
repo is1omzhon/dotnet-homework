@@ -15,7 +15,7 @@
 // designer.ShowInfo();
 // Console.WriteLine($"Designerning maxsus ma’lumoti: {designer.DesignTool}");
 
-Console.WriteLine("\n------------------------");
+//Console.WriteLine("\n------------------------");
 Console.WriteLine("Task 3 \n");
 
 var phone = new Phone("Pixel");

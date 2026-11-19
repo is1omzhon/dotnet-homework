@@ -36,10 +36,10 @@ Salom, men Ali.
 C#
 ```
 
-### Ishga tushirish
+#### Ishga tushirish
 ![1 Programma ishlashi](assets/1task.gif)
 
--------------------------------------------------------
+----
 
 ### 2. Employee, Developer va Designer — Xodim, dasturchi va dizayner
 
@@ -60,7 +60,7 @@ C#
 Jasur, Design
 Figma
 ```
-### Ishga tushirish
+#### Ishga tushirish
 ![2 Programma ishlashi](assets/2task.gif)
 
 ----
@@ -82,8 +82,11 @@ Figma
 Pixel
 Pixel
 ```
+#### Ishga tushirish
+![3 Programma ishlashi](assets/3task.gif)
 
 Shuningdek, `private` va `protected` a'zolariga tashqi koddan to‘g‘ridan-to‘g‘ri murojaat qilib bo‘lmasligi tekshirildi.
+![3 Programma ishlashi](assets/Снимок%20экрана%202026-11-19%20094244.png)
 
 ### 4. Notification — Xabar turini aniqlash
 
