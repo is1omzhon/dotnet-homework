@@ -88,6 +88,8 @@ Pixel
 Shuningdek, `private` va `protected` a'zolariga tashqi koddan to‘g‘ridan-to‘g‘ri murojaat qilib bo‘lmasligi tekshirildi.
 ![3 Programma ishlashi](assets/Снимок%20экрана%202026-11-19%20094244.png)
 
+----
+
 ### 4. Notification — Xabar turini aniqlash
 
 `Notification` asosiy classi va undan meros oluvchi `EmailNotification` hamda `SmsNotification` classlari yaratildi.
@@ -106,7 +108,8 @@ Shuningdek, `private` va `protected` a'zolariga tashqi koddan to‘g‘ridan-to�
 - Noto‘g‘ri turga o‘tkazishda `null` qaytarilishi tekshirildi.
 
 #### Ishga tushirish
-
+![4 Programma ishlashi](assets/4task.gif)
+----
 
 
 ### 5. Online Course — Onlayn kurs
@@ -127,8 +130,11 @@ Shuningdek, `private` va `protected` a'zolariga tashqi koddan to‘g‘ridan-to�
 C#
 Online
 ```
+![5 Programma ishlashi](assets/5task.gif)
 
 Shuningdek, `sealed` classdan meros olib bo‘lmasligi va C# tilida bir vaqtning o‘zida ikkita classdan meros olish mumkin emasligi tekshirildi.
+![5 Programma ishlashi](assets/5.png)
+![5 Programma ishlashi](assets/5_1.png)
 
 ## 🛠 Foydalanilgan texnologiyalar
 
