@@ -10,5 +10,5 @@
 - `Fill` da `amount <= Capacity - Water` bilan int chegarasidan oshish oldi olinadi
 
 ## Ishga tushirish
-![1 Programma ishlashi](/assets/1task.gif)
+![1 Programma ishlashi](assets/1task.gif)
 
