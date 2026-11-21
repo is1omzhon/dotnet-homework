@@ -51,6 +51,9 @@ Mashqlar orqali Inheritance, Virtual Methods, Method Overriding, Runtime Polymor
 
 **O‘rganilgan mavzular:** Inheritance, Method Overriding, Runtime Polymorphism, Base Type Arrays.
 
+#### Ishga tushirish
+![2 Programma ishlashi](assets/task_2.gif)
+
 ### 3. METHOD OVERLOADING — HISOBOTNI CHIQARISH
 
 **Class:** `ReportPrinter`
@@ -62,6 +65,8 @@ Mashqlar orqali Inheritance, Virtual Methods, Method Overriding, Runtime Polymor
 
 **O‘rganilgan mavzular:** Method Overloading, Compile-Time Polymorphism.
 
+#### Ishga tushirish
+![3 Programma ishlashi](assets/task_3.gif)
 ---
 
 ## 🟡 O‘RTACHA

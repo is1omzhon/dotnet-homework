@@ -10,3 +10,21 @@ foreach (Notification notification in notifications)
 {
     notification.Send();
 }
+
+Payment [] payments =
+{
+    new CardPayment("Card"),
+    new BankTransferPayment("Bank"),
+    new WalletPayment("Wallet")
+};
+
+foreach (Payment payment in payments)
+{
+    Console.WriteLine($"{payment.PayType} orqali tulandi: {payment.Pay(50000)}");
+}
+
+
+ReportPrinter printer = new ReportPrinter();
+
+printer.Print("Oylik hisobot");
+printer.Print("Oylik hisobot", 125000);
