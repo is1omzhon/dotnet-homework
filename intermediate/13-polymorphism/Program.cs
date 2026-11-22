@@ -1,30 +1,41 @@
 ﻿using polymorphism.Model;
 
-Notification [] notifications =
+// Notification [] notifications =
+// {
+//     new EmailNotification("Aziza", "Bu xabar siz uchun yuborildi!"),
+//     new SmsNotification ("+7 996 503 26 54", "Kirish kodi: 4845")
+// };
+
+// foreach (Notification notification in notifications)
+// {
+//     notification.Send();
+// }
+
+// Payment [] payments =
+// {
+//     new CardPayment("Card"),
+//     new BankTransferPayment("Bank"),
+//     new WalletPayment("Wallet")
+// };
+
+// foreach (Payment payment in payments)
+// {
+//     Console.WriteLine($"{payment.PayType} orqali tulandi: {payment.Pay(50000)}");
+// }
+
+// ReportPrinter printer = new ReportPrinter();
+
+// printer.Print("Oylik hisobot");
+// printer.Print("Oylik hisobot", 125000);
+
+
+ReportExporter [] reports =
 {
-    new EmailNotification("Aziza", "Bu xabar siz uchun yuborildi!"),
-    new SmsNotification ("+7 996 503 26 54", "Kirish kodi: 4845")
+    new PdfReportExport("Pdf"),
+    new CsvReportExport("Csv")
 };
 
-foreach (Notification notification in notifications)
+foreach (ReportExporter report in reports)
 {
-    notification.Send();
+    report.Export("Restoranning bir oylik savdo hisoboti");
 }
-
-Payment [] payments =
-{
-    new CardPayment("Card"),
-    new BankTransferPayment("Bank"),
-    new WalletPayment("Wallet")
-};
-
-foreach (Payment payment in payments)
-{
-    Console.WriteLine($"{payment.PayType} orqali tulandi: {payment.Pay(50000)}");
-}
-
-
-ReportPrinter printer = new ReportPrinter();
-
-printer.Print("Oylik hisobot");
-printer.Print("Oylik hisobot", 125000);

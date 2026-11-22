@@ -84,6 +84,9 @@ Mashqlar orqali Inheritance, Virtual Methods, Method Overriding, Runtime Polymor
 
 **O‘rganilgan mavzular:** Inheritance, Virtual Methods, Method Overriding, Runtime Polymorphism.
 
+#### Ishga tushirish
+![4 Programma ishlashi](assets/task_4.gif)
+
 ---
 
 ## 🔴 QIYIN
