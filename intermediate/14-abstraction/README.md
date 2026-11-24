@@ -11,7 +11,7 @@ Abstract class va interface bo'yicha uyga vazifa. Hammasi bitta konsol loyihada.
 - `MediaAsset[]` massivi va `foreach` orqali chaqirildi
 - `new MediaAsset(...)` kompilyatsiyadan o'tmaydi
 
-![1 Programma ishlashi](assets/1task.gif)
+![1 Programma ishlashi](assets/task_1.gif)
 
 ---
 
@@ -22,7 +22,7 @@ Abstract class va interface bo'yicha uyga vazifa. Hammasi bitta konsol loyihada.
 - Abstract classda oddiy `ShowName()` va `CalculateWeeklyConsumption(int hoursPerDay)`
 - `Appliance[]` va bitta `foreach`
 
-![2 Programma ishlashi](assets/2task.gif)
+![2 Programma ishlashi](assets/task_2_1.gif)
 
 ---
 
@@ -32,7 +32,7 @@ Abstract class va interface bo'yicha uyga vazifa. Hammasi bitta konsol loyihada.
 - `CloudStorage`, `UsbStorage`, `MemoryCardStorage` interface'ni implement qiladi
 - Saqlash turi uchun `if` yoki `switch` ishlatilmagan, polimorfizm ishlaydi
 
-![3 Programma ishlashi](assets/3task.gif)
+![3 Programma ishlashi](assets/task_3.gif)
 
 ---
 
@@ -42,7 +42,7 @@ Abstract class va interface bo'yicha uyga vazifa. Hammasi bitta konsol loyihada.
 - `LaserPrinter`, `InkjetPrinter`, `ThermalPrinter`
 - `IPrinter[]` ichida printer turi tekshirilmaydi, bitta `Print("Dars-jadvali")` ishlaydi
 
-![4 Programma ishlashi](assets/4task.gif)
+![4 Programma ishlashi](assets/task_4.gif)
 
 ---
 
@@ -52,7 +52,7 @@ Abstract class va interface bo'yicha uyga vazifa. Hammasi bitta konsol loyihada.
 - `Lion("Sulton")`, `Parrot("Kesha")`, `Elephant("Barno")`
 - `Animal[]` va bitta `foreach`
 
-![5 Programma ishlashi](assets/5task.gif)
+![5 Programma ishlashi](assets/task_5.gif)
 
 ---
 
